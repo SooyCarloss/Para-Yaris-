@@ -15,11 +15,11 @@ var lyricsData = [
   { text: "Ella es tan freeee", time: 80 },
   { text: "Ella es una chica Ligth", time: 100 },
   { text: "Tiene un amigo frances", time: 109 },
-  { text: "Y Tiene el pelo negro", time: 111 },
+  { text: "Y Tiene el pelo negro", time: 110 },
   { text: "Ella , q siempre huele Bien", time: 117 },
-  { text: "y Siempre esta bronceada", time: 122 },
+  { text: "y Siempre esta bronceada", time: 121 },
   { text: "y siempre esta drogada", time: 126 },
-  { text: "Miren, Mirenla Bien , Ella es tan Linda", time: 131 },
+  { text: "Miren, Mirenla Bien , Ella es tan Linda", time: 130 },
   { text: "Ella es tan freeeeeeeeeeee", time: 139 },
 ];
 
